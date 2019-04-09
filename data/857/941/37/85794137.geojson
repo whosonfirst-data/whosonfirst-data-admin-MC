@@ -1,0 +1,144 @@
+{
+  "id": 85794137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":36501133.698337,
+    "geom:bbox":"7.440014,43.751377,7.440014,43.751377",
+    "geom:latitude":43.751377,
+    "geom:longitude":7.440014,
+    "gn:latitude":43.7489,
+    "gn:longitude":7.43423,
+    "gn:population":3000,
+    "iso:country":"MC",
+    "lbl:latitude":43.751377,
+    "lbl:longitude":7.440014,
+    "mps:latitude":43.764143,
+    "mps:longitude":7.454102,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:arg_x_preferred":[
+        "La Rossa e Sant Roman"
+    ],
+    "name:cat_x_preferred":[
+        "La Rossa e Sant Roman"
+    ],
+    "name:chi_x_preferred":[
+        "\u5723\u7f57\u66fc"
+    ],
+    "name:dut_x_preferred":[
+        "Saint Roman"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Roman"
+    ],
+    "name:fra_x_preferred":[
+        "St.-Roman"
+    ],
+    "name:fra_x_variant":[
+        "Saint-Roman",
+        "St-Roman"
+    ],
+    "name:fre_x_preferred":[
+        "La Rousse"
+    ],
+    "name:ger_x_preferred":[
+        "La Rousse"
+    ],
+    "name:glg_x_preferred":[
+        "Saint Roman"
+    ],
+    "name:ita_x_preferred":[
+        "La Rousse/Saint-Roman"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0dd\ub85c\ub9dd"
+    ],
+    "name:oci_x_preferred":[
+        "La Rossa e Sant Roman"
+    ],
+    "name:por_x_preferred":[
+        "La Rousse/Saint-Roman"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d-\u0420\u043e\u043c\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "La Rousse/San Roman"
+    ],
+    "name:swe_x_preferred":[
+        "Saint-Roman"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0631\u0648\u0645\u0646\u060c \u0645\u0648\u0646\u0627\u06a9\u0648"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        1159322003,
+        404227807,
+        404227445,
+        101831915,
+        102064709,
+        85683323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3225774,
+        "gp:id":483303,
+        "qs:id":489861,
+        "wd:id":"Q55089"
+    },
+    "wof:country":"MC",
+    "wof:geomhash":"382190b3fe8871e8e11ca30df069ec99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064709,
+            "localadmin_id":1159322003,
+            "locality_id":101831915,
+            "macrocounty_id":404227807,
+            "macroregion_id":404227445,
+            "neighbourhood_id":85794137,
+            "region_id":85683323
+        }
+    ],
+    "wof:id":85794137,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1533329131,
+    "wof:name":"St.-Roman",
+    "wof:parent_id":101831915,
+    "wof:placetype":"neighbourhood",
+    "wof:population":3000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.440014,
+    43.751377,
+    7.440014,
+    43.751377
+],
+  "geometry": {"coordinates":[7.440014,43.751377],"type":"Point"}
+}

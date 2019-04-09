@@ -1,0 +1,298 @@
+{
+  "id": 1126065307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.43701,43.74965,7.43701,43.74965",
+    "geom:latitude":43.74965,
+    "geom:longitude":7.43701,
+    "gn:gn_country":"MC",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":16012,
+    "gn:population":16012,
+    "iso:country":"MC",
+    "lbl:latitude":43.74965,
+    "lbl:longitude":7.43701,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:alb_x_preferred":[
+        "Monte Karlo"
+    ],
+    "name:ang_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0646\u062a \u0643\u0627\u0631\u0644\u0648"
+    ],
+    "name:arg_x_preferred":[
+        "Monte-Carlu"
+    ],
+    "name:arm_x_preferred":[
+        "\u0544\u0578\u0576\u057f\u0565 \u053f\u0561\u057c\u056c\u0578"
+    ],
+    "name:aze_x_preferred":[
+        "Monte Karlo"
+    ],
+    "name:baq_x_preferred":[
+        "Monte-Carlo"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u044d-\u041a\u0430\u0440\u043b\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u0995\u09be\u09b0\u09cd\u09b2\u09cb"
+    ],
+    "name:bre_x_preferred":[
+        "Monte Carlu"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435 \u041a\u0430\u0440\u043b\u043e"
+    ],
+    "name:bur_x_preferred":[
+        "\u1019\u103d\u1014\u103a\u1010\u102e\u1000\u102c\u101c\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:cat_x_preferred":[
+        "Montecarlo"
+    ],
+    "name:chi_x_preferred":[
+        "\u8499\u7279\u5361\u6d1b"
+    ],
+    "name:cor_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:cze_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:dan_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:dut_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:eng_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:epo_x_preferred":[
+        "Montekarlo"
+    ],
+    "name:fin_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:fre_x_preferred":[
+        "Monte-Carlo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10dd\u10dc\u10e2\u10d4-\u10d9\u10d0\u10e0\u10da\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Monte-Carlo"
+    ],
+    "name:gle_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:glg_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03cc\u03bd\u03c4\u03b5 \u039a\u03ac\u03c1\u03bb\u03bf"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d8\u05d4 \u05e7\u05e8\u05dc\u05d5"
+    ],
+    "name:hif_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0902\u091f\u0940 \u0915\u093e\u0930\u094d\u0932\u094b"
+    ],
+    "name:hrv_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:hun_x_preferred":[
+        "Monte-Carlo"
+    ],
+    "name:ice_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:ind_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:isl_x_preferred":[
+        "Monte Karl\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed"
+    ],
+    "name:kal_x_preferred":[
+        "Monte-Carlo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u041a\u0430\u0440\u043b\u043e"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaac\ud14c\uce74\ub97c\ub85c"
+    ],
+    "name:lat_x_preferred":[
+        "Mons Caroli"
+    ],
+    "name:lav_x_preferred":[
+        "Montekarlo"
+    ],
+    "name:lij_x_preferred":[
+        "Munte Carlu"
+    ],
+    "name:lit_x_preferred":[
+        "Monte Karlas"
+    ],
+    "name:ltz_x_preferred":[
+        "Monte-Carlo"
+    ],
+    "name:mac_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435 \u041a\u0430\u0440\u043b\u043e"
+    ],
+    "name:may_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:nau_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:nno_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:nob_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:oci_x_preferred":[
+        "Montcarles"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u200c\u06a9\u0627\u0631\u0644\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:por_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:rum_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u041a\u0430\u0440\u043b\u043e"
+    ],
+    "name:scn_x_preferred":[
+        "Montecarlu"
+    ],
+    "name:sco_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:slo_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:slv_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:spa_x_preferred":[
+        "Montecarlo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435 \u041a\u0430\u0440\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0ba9\u0bcd\u0b9f\u0bc7 \u0b95\u0bbe\u0bb0\u0bcd\u0bb2\u0bcb"
+    ],
+    "name:tur_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u041a\u0430\u0440\u043b\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Montekarlo"
+    ],
+    "name:vie_x_preferred":[
+        "Monte Carlo"
+    ],
+    "name:wel_x_preferred":[
+        "Monte-Carlo"
+    ],
+    "qs_pg:aaroncc":"MC",
+    "qs_pg:gn_country":"MC",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2992741,
+    "qs_pg:gn_pop":16012,
+    "qs_pg:name":"Monte-Carlo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1041591,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        404227807,
+        404227445,
+        101831915,
+        102064709,
+        85683323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2992741,
+        "qs_pg:id":1041591,
+        "wd:id":"Q45240"
+    },
+    "wof:country":"MC",
+    "wof:created":1497308783,
+    "wof:geomhash":"df9c7c3ed4974348e8156d6f2c272468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064709,
+            "locality_id":101831915,
+            "macrocounty_id":404227807,
+            "macroregion_id":404227445,
+            "neighbourhood_id":1126065307,
+            "region_id":85683323
+        }
+    ],
+    "wof:id":1126065307,
+    "wof:lastmodified":1514484331,
+    "wof:name":"Monte-Carlo",
+    "wof:parent_id":101831915,
+    "wof:placetype":"neighbourhood",
+    "wof:population":16012,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.43701,
+    43.74965,
+    7.43701,
+    43.74965
+],
+  "geometry": {"coordinates":[7.43701,43.74965],"type":"Point"}
+}
