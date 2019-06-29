@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003141,
-    "geom:area_square_m":28063717.762172,
+    "geom:area_square_m":28063717.762175,
     "geom:bbox":"7.34809326172,43.6916368641,7.41984145285,43.7751434914",
     "geom:latitude":43.730306,
     "geom:longitude":7.385501,
@@ -32,9 +32,6 @@
     "name:arg_x_preferred":[
         "F\u00f2ntvielha"
     ],
-    "name:arm_x_preferred":[
-        "\u0556\u0578\u0576\u057e\u0575\u0565\u0575"
-    ],
     "name:bre_x_preferred":[
         "Fontvieille"
     ],
@@ -44,14 +41,11 @@
     "name:cat_x_variant":[
         "Fontvieille"
     ],
-    "name:chi_x_preferred":[
-        "\u82b3\u7279\u7ef4\u8036"
-    ],
     "name:deu_x_preferred":[
         "Fontvieille"
     ],
-    "name:dut_x_preferred":[
-        "Fontvieille"
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03bd\u03c4\u03b2\u03b9\u03ad\u03b3"
     ],
     "name:eng_x_preferred":[
         "Fontvieille"
@@ -62,17 +56,8 @@
     "name:fra_x_preferred":[
         "Fontvieille"
     ],
-    "name:fre_x_preferred":[
-        "Fontvieille"
-    ],
-    "name:ger_x_preferred":[
-        "Fontvieille"
-    ],
     "name:glg_x_preferred":[
         "Fontvieille"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bf\u03bd\u03c4\u03b2\u03b9\u03ad\u03b3"
     ],
     "name:hun_x_preferred":[
         "Fontvieille"
@@ -100,9 +85,6 @@
     ],
     "name:oci_x_preferred":[
         "F\u00f2ntvielha"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0648\u0646\u0648\u06cc\u060c \u0645\u0648\u0646\u0627\u06a9\u0648"
     ],
     "name:pol_x_preferred":[
         "Fontvieille"
@@ -217,7 +199,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1534379378,
+    "wof:lastmodified":1561839910,
     "wof:name":"Fontvieille",
     "wof:parent_id":101831785,
     "wof:placetype":"neighbourhood",
