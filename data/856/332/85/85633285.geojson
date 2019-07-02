@@ -157,9 +157,6 @@
     "name:cym_x_preferred":[
         "Monaco"
     ],
-    "name:cze_x_preferred":[
-        "Monako"
-    ],
     "name:dan_x_preferred":[
         "Monaco"
     ],
@@ -837,8 +834,7 @@
         "\u6469\u7eb3\u54e5"
     ],
     "name:zho_x_variant":[
-        "\u6469\u7d0d\u54e5",
-        "\u6469\u7eb3\u54e5"
+        "\u6469\u7d0d\u54e5"
     ],
     "name:zho_yue_x_preferred":[
         "\u6469\u7d0d\u54e5"
@@ -1035,7 +1031,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1544059102,
+    "wof:lastmodified":1561839910,
     "wof:name":"Monaco",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
