@@ -21,8 +21,14 @@
     "name:arg_x_preferred":[
         "La Rossa e Sant Roman"
     ],
+    "name:aze_x_preferred":[
+        "Sen-Roman"
+    ],
     "name:cat_x_preferred":[
         "La Rossa e Sant Roman"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint-Roman"
     ],
     "name:deu_x_preferred":[
         "La Rousse"
@@ -62,6 +68,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u0631\u0648\u0645\u0646\u060c \u0645\u0648\u0646\u0627\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679 \u0631\u0648\u0645\u0646"
     ],
     "name:zho_x_preferred":[
         "\u5723\u7f57\u66fc"
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":1126085669,
-    "wof:lastmodified":1561839910,
+    "wof:lastmodified":1563365638,
     "wof:name":"St.-Roman",
     "wof:parent_id":101831915,
     "wof:placetype":"neighbourhood",
