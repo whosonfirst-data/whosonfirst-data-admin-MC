@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.0,
+    "name:abk_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u043a\u043e"
+    ],
     "name:ace_x_preferred":[
         "Monak\u00f4"
     ],
@@ -61,6 +64,12 @@
     "name:ast_x_preferred":[
         "M\u00f3naco"
     ],
+    "name:ast_x_variant":[
+        "M\u00f3nacu"
+    ],
+    "name:ava_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u043a\u043e"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0648\u0646\u0627\u06a9\u0648"
     ],
@@ -82,11 +91,11 @@
     "name:bel_x_preferred":[
         "\u041c\u0430\u043d\u0430\u043a\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u041c\u0430\u043d\u0430\u043a\u0430"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09a8\u09be\u0995\u09cb"
+    ],
+    "name:bho_x_preferred":[
+        "\u092e\u094b\u0928\u093e\u0915\u094b"
     ],
     "name:bis_x_preferred":[
         "Monaco"
@@ -172,6 +181,9 @@
     "name:dsb_x_preferred":[
         "Monaco"
     ],
+    "name:dty_x_preferred":[
+        "\u092e\u094b\u0928\u093e\u0915\u094b"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03bd\u03b1\u03ba\u03cc"
     ],
@@ -232,6 +244,9 @@
     "name:ful_x_preferred":[
         "Monaakoo"
     ],
+    "name:ful_x_variant":[
+        "Monako"
+    ],
     "name:gag_x_preferred":[
         "Monako"
     ],
@@ -260,6 +275,12 @@
     "name:gom_x_preferred":[
         "\u092e\u094b\u0928\u0945\u0915\u094b"
     ],
+    "name:grn_x_preferred":[
+        "M\u00f3nako"
+    ],
+    "name:gsw_x_preferred":[
+        "Monaco"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0ac5\u0a95\u0acb"
     ],
@@ -271,6 +292,9 @@
     ],
     "name:hat_x_preferred":[
         "Monako (peyi)"
+    ],
+    "name:hat_x_variant":[
+        "Monako"
     ],
     "name:hau_x_preferred":[
         "Monaco"
@@ -313,6 +337,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u0576\u0561\u056f\u0578"
+    ],
+    "name:ibo_x_preferred":[
+        "Monako"
     ],
     "name:ido_x_preferred":[
         "Monako (lando)"
@@ -380,6 +407,9 @@
     "name:kbd_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e"
     ],
+    "name:kbp_x_preferred":[
+        "Monakoo"
+    ],
     "name:khm_x_preferred":[
         "\u1798\u17c9\u17bc\u178e\u17b6\u1780\u17bc"
     ],
@@ -434,6 +464,9 @@
     "name:lez_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e"
     ],
+    "name:lfn_x_preferred":[
+        "Monaco"
+    ],
     "name:lij_x_preferred":[
         "Prin\u00e7ipatu de Mu\u030dnegu"
     ],
@@ -452,11 +485,17 @@
     "name:lit_x_preferred":[
         "Monakas"
     ],
+    "name:liv_x_preferred":[
+        "Monako"
+    ],
     "name:lmo_x_preferred":[
         "Principaa de Monach"
     ],
     "name:lrc_x_preferred":[
         "\u0634\u0623\u0631 \u0645\u0648\u0646\u0627\u06a9\u0648"
+    ],
+    "name:lrc_x_variant":[
+        "\u0645\u0648\u0646\u0627\u06a9\u0648"
     ],
     "name:ltg_x_preferred":[
         "Monaks"
@@ -469,6 +508,9 @@
     ],
     "name:lug_x_preferred":[
         "Monako"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6469\u7d0d\u54e5"
     ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d4a\u0d23\u0d3e\u0d15\u0d4d\u0d15\u0d4b"
@@ -515,6 +557,15 @@
     "name:myv_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0648\u0646\u0627\u06a9\u0648"
+    ],
+    "name:nah_x_preferred":[
+        "Monaco"
+    ],
+    "name:nan_x_preferred":[
+        "Monaco"
+    ],
     "name:nau_x_preferred":[
         "Monako"
     ],
@@ -557,6 +608,9 @@
     "name:oci_x_variant":[
         "Monegue"
     ],
+    "name:olo_x_preferred":[
+        "Monako"
+    ],
     "name:ori_x_preferred":[
         "\u0b2e\u0b4b\u0b28\u0b3e\u0b15\u0b4b"
     ],
@@ -578,11 +632,17 @@
     "name:pan_x_preferred":[
         "\u0a2e\u0a4b\u0a28\u0a3e\u0a15\u0a4b"
     ],
+    "name:pap_x_preferred":[
+        "Monaco"
+    ],
     "name:pcd_x_preferred":[
         "Monaco"
     ],
     "name:pfl_x_preferred":[
         "Monaco"
+    ],
+    "name:pfl_x_variant":[
+        "Monaggo"
     ],
     "name:pih_x_preferred":[
         "Monako"
@@ -612,6 +672,9 @@
         "M\u00f4naco",
         "Principado do M\u00f3naco"
     ],
+    "name:pus_x_preferred":[
+        "\u0645\u0648\u0646\u0627\u06a9\u0648"
+    ],
     "name:que_x_preferred":[
         "Munaku"
     ],
@@ -626,6 +689,9 @@
     ],
     "name:run_x_preferred":[
         "Monako"
+    ],
+    "name:rup_x_preferred":[
+        "Monaco"
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e"
@@ -645,6 +711,9 @@
     "name:sco_x_preferred":[
         "Monaco"
     ],
+    "name:sgs_x_preferred":[
+        "Muonaks"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0db1\u0dcf\u0d9a\u0ddd"
     ],
@@ -662,6 +731,9 @@
     ],
     "name:sna_x_preferred":[
         "Monaco"
+    ],
+    "name:snd_x_preferred":[
+        "\u0645\u0648\u0646\u0627\u06aa\u0648"
     ],
     "name:som_x_preferred":[
         "Monako"
@@ -741,6 +813,9 @@
     "name:ton_x_preferred":[
         "Manako"
     ],
+    "name:tso_x_preferred":[
+        "Monaco"
+    ],
     "name:tuk_x_preferred":[
         "Monako"
     ],
@@ -788,6 +863,9 @@
     "name:vep_x_preferred":[
         "Monako"
     ],
+    "name:vep_x_variant":[
+        "Monak"
+    ],
     "name:vie_x_preferred":[
         "Monaco"
     ],
@@ -800,7 +878,13 @@
     "name:vol_x_preferred":[
         "Monak\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Monaco"
+    ],
     "name:war_x_preferred":[
+        "Monaco"
+    ],
+    "name:wln_x_preferred":[
         "Monaco"
     ],
     "name:wol_x_preferred":[
@@ -824,7 +908,13 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Monako"
     ],
+    "name:yue_x_preferred":[
+        "\u6469\u7d0d\u54e5"
+    ],
     "name:zea_x_preferred":[
+        "Monaco"
+    ],
+    "name:zha_x_preferred":[
         "Monaco"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -1031,7 +1121,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561839910,
+    "wof:lastmodified":1563365630,
     "wof:name":"Monaco",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

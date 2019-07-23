@@ -22,6 +22,9 @@
     "name:arg_x_preferred":[
         "Moneghetti"
     ],
+    "name:aze_x_preferred":[
+        "Moneqetti"
+    ],
     "name:bre_x_preferred":[
         "Moneghetti"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:cat_x_preferred":[
         "Monegue"
+    ],
+    "name:cat_x_variant":[
+        "Moneguet"
+    ],
+    "name:ceb_x_preferred":[
+        "Moneghetti"
     ],
     "name:deu_x_preferred":[
         "Moneghetti"
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":1126063423,
-    "wof:lastmodified":1561839910,
+    "wof:lastmodified":1563365638,
     "wof:name":"Moneghetti",
     "wof:parent_id":101831917,
     "wof:placetype":"neighbourhood",
