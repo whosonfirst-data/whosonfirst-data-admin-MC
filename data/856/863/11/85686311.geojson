@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MC"
+    ],
     "lbl:latitude":43.735797,
     "lbl:longitude":7.422981,
     "mps:latitude":43.735797,
@@ -244,7 +247,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563365633,
+    "wof:lastmodified":1565727306,
     "wof:name":"Monaco",
     "wof:parent_id":85633285,
     "wof:placetype":"region",
