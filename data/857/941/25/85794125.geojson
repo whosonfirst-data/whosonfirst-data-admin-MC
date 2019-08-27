@@ -16,6 +16,7 @@
     "iso:country":"MC",
     "lbl:latitude":43.737811,
     "lbl:longitude":7.427345,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.727582,
     "mps:longitude":7.430303,
     "mz:hierarchy_label":1,
@@ -134,10 +135,9 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":37,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191581,
         85633147,
@@ -153,7 +153,7 @@
         "fct:id":"01a45832-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3009937,
         "gp:id":483298,
-        "qs:id":474540,
+        "qs_pg:id":474540,
         "wd:id":"Q55095",
         "wk:page":"La Condamine"
     },
@@ -176,7 +176,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563365626,
+    "wof:lastmodified":1566602964,
     "wof:name":"Condamine",
     "wof:parent_id":101831915,
     "wof:placetype":"neighbourhood",

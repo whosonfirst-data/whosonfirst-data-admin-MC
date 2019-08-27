@@ -13,8 +13,10 @@
     "gn:longitude":7.43423,
     "gn:population":3000,
     "iso:country":"MC",
+    "lbl:bbox":"7.435014,43.746377,7.445014,43.756377",
     "lbl:latitude":43.751377,
     "lbl:longitude":7.440014,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.764143,
     "mps:longitude":7.454102,
     "mz:hierarchy_label":0,
@@ -92,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -108,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3225774,
         "gp:id":483303,
-        "qs:id":489861,
+        "qs_pg:id":489861,
         "wd:id":"Q55089"
     },
     "wof:country":"MC",
@@ -130,7 +132,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563365625,
+    "wof:lastmodified":1566602964,
     "wof:name":"St.-Roman",
     "wof:parent_id":101831915,
     "wof:placetype":"neighbourhood",

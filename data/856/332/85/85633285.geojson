@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":43.739652,
     "lbl:longitude":7.398291,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":43.739652,
     "mps:longitude":7.398291,
     "mz:hierarchy_label":1,
@@ -840,11 +842,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e"
     ],
-    "name:und_x_preferred":[
-        "Monako",
-        "M\u00f2naco",
-        "M\u00f3nak\u00f3"
-    ],
     "name:und_x_variant":[
         "Monak\u00f3"
     ],
@@ -1053,7 +1050,7 @@
         "quattroshapes",
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"377",
     "statoids:ds":"MC",
@@ -1097,7 +1094,7 @@
         "mzb:id":"monaco",
         "ne:adm0_a3":"MCO",
         "nyt:id":"60372291052145827841",
-        "qs:id":580370,
+        "qs_pg:id":580370,
         "uncrt:id":"MC",
         "wd:id":"Q235",
         "wk:page":"Monaco"
@@ -1121,7 +1118,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565727306,
+    "wof:lastmodified":1566602964,
     "wof:name":"Monaco",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
