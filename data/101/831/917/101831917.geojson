@@ -13,6 +13,8 @@
     "iso:country":"MC",
     "lbl:latitude":43.733783,
     "lbl:longitude":7.418464,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":43.733783,
     "mps:longitude":7.418464,
     "mz:hierarchy_label":1,
@@ -636,7 +638,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monaco-Ville"
     ],
     "name:urd_x_preferred":[
@@ -804,7 +806,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -816,10 +818,12 @@
     "wof:concordances":{
         "gn:id":2993458,
         "gp:id":483301,
-        "qs:id":1078166,
         "qs_pg:id":1041614,
         "wd:id":"Q235",
         "wk:page":"Monaco"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078166
     },
     "wof:coterminous":[
         85633285
@@ -835,7 +839,7 @@
         }
     ],
     "wof:id":101831917,
-    "wof:lastmodified":1563365637,
+    "wof:lastmodified":1566602965,
     "wof:megacity":0,
     "wof:name":"Monaco",
     "wof:parent_id":85686311,
