@@ -114,6 +114,9 @@
         "wd:id":"Q55089"
     },
     "wof:country":"MC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"382190b3fe8871e8e11ca30df069ec99",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566602964,
+    "wof:lastmodified":1582316360,
     "wof:name":"St.-Roman",
     "wof:parent_id":101831915,
     "wof:placetype":"neighbourhood",
