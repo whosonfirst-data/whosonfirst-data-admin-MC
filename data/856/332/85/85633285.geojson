@@ -1048,7 +1048,6 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes",
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1124,7 +1123,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1582316360,
+    "wof:lastmodified":1583203178,
     "wof:name":"Monaco",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
