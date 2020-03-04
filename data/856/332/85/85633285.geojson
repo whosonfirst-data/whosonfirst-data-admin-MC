@@ -1104,6 +1104,11 @@
     ],
     "wof:country":"MC",
     "wof:country_alpha3":"MCO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"52c3b18f9d1eee3741f379f1f92d8787",
     "wof:hierarchy":[
         {
@@ -1118,7 +1123,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566602964,
+    "wof:lastmodified":1583203178,
     "wof:name":"Monaco",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

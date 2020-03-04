@@ -182,6 +182,9 @@
         "wk:page":"La Condamine"
     },
     "wof:country":"MC",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"232d31636e126417c05aa363cd530255",
     "wof:hierarchy":[
         {
@@ -196,7 +199,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566602964,
+    "wof:lastmodified":1582316360,
     "wof:name":"La Condamine",
     "wof:parent_id":101831917,
     "wof:placetype":"neighbourhood",

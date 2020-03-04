@@ -829,6 +829,9 @@
         85633285
     ],
     "wof:country":"MC",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9c6267206e579bf3def8aae754f9683e",
     "wof:hierarchy":[
         {
@@ -839,7 +842,7 @@
         }
     ],
     "wof:id":101831917,
-    "wof:lastmodified":1566602965,
+    "wof:lastmodified":1582316360,
     "wof:megacity":0,
     "wof:name":"Monaco",
     "wof:parent_id":85686311,
