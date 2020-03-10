@@ -1079,9 +1079,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Monaco",
-        "digitalenvoy:country_code":[
-            492
-        ],
+        "digitalenvoy:country_code":492,
         "fb:id":"en.monaco",
         "fifa:id":"MON",
         "fips:code":"MN",
@@ -1126,7 +1124,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1583529177,
+    "wof:lastmodified":1583797384,
     "wof:name":"Monaco",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
