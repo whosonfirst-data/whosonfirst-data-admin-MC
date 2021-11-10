@@ -249,6 +249,9 @@
         "Monaco"
     ],
     "name:hin_x_preferred":[
+        "\u092e\u094b\u0928\u093e\u0915\u094b"
+    ],
+    "name:hin_x_variant":[
         "\u092e\u094b\u0928\u0948\u0915\u094b"
     ],
     "name:hrv_x_preferred":[
@@ -845,7 +848,7 @@
         }
     ],
     "wof:id":101831917,
-    "wof:lastmodified":1608004479,
+    "wof:lastmodified":1636495063,
     "wof:megacity":0,
     "wof:name":"Monaco",
     "wof:parent_id":85686311,
