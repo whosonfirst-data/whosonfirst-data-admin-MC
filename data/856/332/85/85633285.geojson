@@ -17,12 +17,12 @@
     "label:eng_x_preferred_shortcode":[
         "MC"
     ],
-    "lbl:latitude":43.739652,
-    "lbl:longitude":7.398291,
+    "lbl:latitude":43.737356,
+    "lbl:longitude":7.427714,
     "lbl:max_zoom":8.0,
     "lbl:min_zoom":4.0,
-    "mps:latitude":43.739652,
-    "mps:longitude":7.398291,
+    "mps:latitude":43.737356,
+    "mps:longitude":7.427714,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":10.0,
@@ -1189,7 +1189,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1617827390,
+    "wof:lastmodified":1673383255,
     "wof:name":"Monaco",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
