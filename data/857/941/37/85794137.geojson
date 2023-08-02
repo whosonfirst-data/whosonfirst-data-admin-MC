@@ -37,14 +37,26 @@
     "name:cat_x_preferred":[
         "La Rossa e Sant Roman"
     ],
+    "name:cat_x_variant":[
+        "La Rossa"
+    ],
     "name:ceb_x_preferred":[
         "Saint-Roman"
     ],
     "name:deu_x_preferred":[
         "La Rousse"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u03a1\u03bf\u03c5\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Saint Roman"
+    ],
+    "name:eng_x_variant":[
+        "La Rousse"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0647 \u0631\u0648\u0633"
     ],
     "name:fra_x_preferred":[
         "St.-Roman"
@@ -60,8 +72,14 @@
     "name:ita_x_preferred":[
         "La Rousse/Saint-Roman"
     ],
+    "name:ita_x_variant":[
+        "La Rousse"
+    ],
     "name:kor_x_preferred":[
         "\uc0dd\ub85c\ub9dd"
+    ],
+    "name:lij_x_preferred":[
+        "La Rousse"
     ],
     "name:nld_x_preferred":[
         "Saint Roman"
@@ -72,20 +90,35 @@
     "name:por_x_preferred":[
         "La Rousse/Saint-Roman"
     ],
+    "name:por_x_variant":[
+        "La Rousse"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d-\u0420\u043e\u043c\u0430\u043d"
     ],
     "name:spa_x_preferred":[
         "La Rousse/San Roman"
     ],
+    "name:spa_x_variant":[
+        "La Rousse"
+    ],
     "name:swe_x_preferred":[
         "Saint-Roman"
+    ],
+    "name:swe_x_variant":[
+        "La Rousse"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u043d-\u0420\u043e\u043c\u0430\u043d"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u0631\u0648\u0645\u0646\u060c \u0645\u0648\u0646\u0627\u06a9\u0648"
     ],
     "name:urd_x_variant":[
         "\u0633\u06cc\u0646\u0679 \u0631\u0648\u0645\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "La Rousse"
     ],
     "name:zho_x_preferred":[
         "\u5723\u7f57\u66fc"
@@ -135,7 +168,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1582316360,
+    "wof:lastmodified":1690939123,
     "wof:name":"St.-Roman",
     "wof:parent_id":101831915,
     "wof:placetype":"neighbourhood",
