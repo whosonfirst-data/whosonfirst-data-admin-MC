@@ -48,8 +48,17 @@
     "name:eng_x_preferred":[
         "Moneghetti"
     ],
+    "name:eng_x_variant":[
+        "Condamine"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0647 \u0645\u0648\u0646\u06af\u062a\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Moneghetti"
+    ],
+    "name:fra_x_variant":[
+        "Condamine"
     ],
     "name:glg_x_preferred":[
         "Moneghetti"
@@ -84,7 +93,16 @@
     "name:swe_x_preferred":[
         "Moneghetti"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e25\u0e21\u0e2d\u0e40\u0e19\u0e2d\u0e41\u0e01\u0e15\u0e35"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0435\u0433\u0435\u0442\u0442\u0456"
+    ],
     "name:und_x_variant":[
+        "Les Moneghetti"
+    ],
+    "name:uzb_x_preferred":[
         "Les Moneghetti"
     ],
     "name:zho_x_preferred":[
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1126063423,
-    "wof:lastmodified":1566602965,
+    "wof:lastmodified":1690939125,
     "wof:name":"Moneghetti",
     "wof:parent_id":101831917,
     "wof:placetype":"neighbourhood",

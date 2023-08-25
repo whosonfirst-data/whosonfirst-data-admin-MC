@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u0627\u0643\u0648 \u0641\u064a\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0645\u0648\u0646\u0627\u0643\u0648"
+    ],
     "name:arg_x_preferred":[
         "Ciudat de M\u00fanegu"
     ],
@@ -43,11 +46,17 @@
     "name:aze_x_preferred":[
         "Monako Vill"
     ],
+    "name:ban_x_preferred":[
+        "Monaco-Vill\u00e9"
+    ],
     "name:bcl_x_preferred":[
         "Monaco City"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043d\u0430\u043a\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043d\u0430\u043a\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09a8\u09be\u0995\u09cb"
@@ -64,17 +73,24 @@
     "name:che_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e"
     ],
+    "name:cym_x_preferred":[
+        "Dinas Monaco"
+    ],
     "name:dan_x_preferred":[
         "Monaco-Ville"
     ],
     "name:deu_x_preferred":[
         "Monaco-Ville"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03b1\u03ba\u03cc-\u0392\u03b9\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Monaco"
     ],
     "name:eng_x_variant":[
-        "Monaco-Ville"
+        "Monaco-Ville",
+        "Monaco City"
     ],
     "name:epo_x_preferred":[
         "Monako"
@@ -88,8 +104,14 @@
     "name:fas_x_preferred":[
         "\u0645\u0648\u0646\u0627\u06a9\u0648\u0648\u06cc\u0644"
     ],
+    "name:fin_x_preferred":[
+        "Monaco-Ville"
+    ],
     "name:fra_x_preferred":[
         "Monaco-Ville"
+    ],
+    "name:gle_x_preferred":[
+        "Monac\u00f3"
     ],
     "name:glg_x_preferred":[
         "Monaco-Ville"
@@ -112,8 +134,14 @@
     "name:hye_x_preferred":[
         "\u0544\u0578\u0576\u0561\u056f\u0578"
     ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0578\u0576\u0561\u0584\u0585 \u0584\u0561\u0572\u0561\u0584\u0561\u0574\u0567\u057b"
+    ],
     "name:ind_x_preferred":[
         "Monako"
+    ],
+    "name:ind_x_variant":[
+        "Kota Monako"
     ],
     "name:ita_x_preferred":[
         "Monaco Vecchia"
@@ -148,6 +176,9 @@
     "name:myv_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e \u043e\u0448"
     ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0648\u0646\u0627\u06a9\u0648-\u0648\u06cc\u0644"
+    ],
     "name:nld_x_preferred":[
         "Monaco-Ville"
     ],
@@ -172,6 +203,9 @@
     "name:spa_x_preferred":[
         "M\u00f3naco"
     ],
+    "name:spa_x_variant":[
+        "Monaco-Ville"
+    ],
     "name:swe_x_preferred":[
         "Monaco-Ville"
     ],
@@ -180,6 +214,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e2d\u0e19\u0e32\u0e42\u0e01-\u0e27\u0e35\u0e25"
     ],
     "name:tur_x_preferred":[
         "Monaco-Ville"
@@ -194,6 +231,12 @@
         "Monako"
     ],
     "name:vie_x_preferred":[
+        "Monaco"
+    ],
+    "name:vls_x_preferred":[
+        "Monaco-Ville"
+    ],
+    "name:vol_x_preferred":[
         "Monaco"
     ],
     "name:wol_x_preferred":[
@@ -260,7 +303,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636495063,
+    "wof:lastmodified":1690939124,
     "wof:name":"Monaco",
     "wof:parent_id":85633285,
     "wof:placetype":"region",
