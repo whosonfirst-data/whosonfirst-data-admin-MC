@@ -1251,6 +1251,7 @@
         "hasc:id":"MC",
         "icao:code":"3A",
         "ioc:id":"MON",
+        "iso:code":"MC",
         "itu:id":"MCO",
         "m49:code":"492",
         "marc:id":"mc",
@@ -1263,6 +1264,7 @@
         "wd:id":"Q235",
         "wk:page":"Monaco"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         85686311
     ],
@@ -1287,7 +1289,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694639679,
+    "wof:lastmodified":1695881337,
     "wof:name":"Monaco",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
