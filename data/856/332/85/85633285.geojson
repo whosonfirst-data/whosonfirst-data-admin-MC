@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000391,
-    "geom:area_square_m":3497609.096912,
+    "geom:area_square_m":3497599.974689,
     "geom:bbox":"7.409048,43.724414,7.447348,43.751952",
     "geom:latitude":43.737925,
     "geom:longitude":7.427694,
@@ -13,6 +13,9 @@
     "iso:country":"MC",
     "itu:country_code":[
         "377"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "MC"
@@ -1209,7 +1212,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"377",
     "statoids:ds":"MC",
     "statoids:fifa":"MON",
@@ -1247,6 +1251,7 @@
         "hasc:id":"MC",
         "icao:code":"3A",
         "ioc:id":"MON",
+        "iso:code":"MC",
         "itu:id":"MCO",
         "m49:code":"492",
         "marc:id":"mc",
@@ -1259,6 +1264,7 @@
         "wd:id":"Q235",
         "wk:page":"Monaco"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         85686311
     ],
@@ -1269,7 +1275,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"370921f89f75d49a015c739e8af7f5fd",
+    "wof:geomhash":"3155f4d622ae5637125103e1f88264c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1283,12 +1289,12 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690939124,
+    "wof:lastmodified":1695881337,
     "wof:name":"Monaco",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":37831,
-    "wof:population_rank":7,
+    "wof:population":38964,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-mc",
     "wof:shortcode":"MC",
     "wof:superseded_by":[],

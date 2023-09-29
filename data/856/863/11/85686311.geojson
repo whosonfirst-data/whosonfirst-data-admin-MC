@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000242,
-    "geom:area_square_m":2157740.042417,
+    "geom:area_square_m":2157732.683703,
     "geom:bbox":"7.409525,43.725727,7.439247,43.751632",
     "geom:latitude":43.737453,
     "geom:longitude":7.424219,
@@ -280,15 +280,21 @@
     "wof:concordances":{
         "fips:code":"MN",
         "hasc:id":"MC.MC",
+        "iso:code":"MC-MC",
         "iso:id":"MC-MC",
+        "qs:local_id":"N_A",
         "wd:id":"Q55115"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         101831917,
         85633285
     ],
     "wof:country":"MC",
-    "wof:geomhash":"fc1a2f1167c54295d912817becf8dae9",
+    "wof:geomhash":"e7c6df5b6226b67335dc5cf6ed592704",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -303,7 +309,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690939124,
+    "wof:lastmodified":1695884786,
     "wof:name":"Monaco",
     "wof:parent_id":85633285,
     "wof:placetype":"region",
